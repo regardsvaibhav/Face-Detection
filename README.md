@@ -1,2 +1,2 @@
 # Face-Recognition
-Face Recognition Python Project Using OpenCV Python
+Face Detection Python Project Using OpenCV Python
